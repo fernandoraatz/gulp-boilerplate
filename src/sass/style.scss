@@ -1,0 +1,34 @@
+/*
+|--------------------------------------------------------------------------
+| Imports
+|--------------------------------------------------------------------------
+*/
+
+// BASE
+ 
+@import "base/config";  
+@import "base/fonts";
+@import "base/base"; 
+@import "base/grid"; 
+@import "base/helpers"; 
+
+// CORE
+
+@import "modules/core/header";
+@import "modules/core/sidebar";
+@import "modules/core/footer";
+@import "modules/core/content";
+
+// COMPONENTS
+ 
+@import "modules/components/buttons";  
+@import "modules/components/forms";
+@import "modules/components/modal";
+@import "modules/components/cards";
+
+
+
+// SOURCE
+
+// @import "source/datatables";
+
