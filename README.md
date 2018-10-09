@@ -50,23 +50,3 @@ localhost:8080
 ```
 
 ---
-
-## Estrutura Básica
-
-Estrutura básica de pastas e arquivos:
-
-- *gulpfile.js*
-- *package.json*
-
-
-## Javascript
-
-Estrutura básica em Javascript
-
-### Descrição
-
-- Cria um objeto App com 3 objetos principais
-- Core, component e controller
-- Separando por módulos
-
----
