@@ -12,6 +12,8 @@ Estrutura de automatização com Gulp.
 - Insere automaticamente vendor prefixes.  
 - Gera mapeamento de Sass para o navegador.  
 - Gera um servidor com LiveReload.
+- Scripts estruturado com VanillaJs
+- Styles estruturados com Sass
 
 ## Pré Requisitos
 
