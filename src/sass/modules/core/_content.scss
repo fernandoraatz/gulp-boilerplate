@@ -34,22 +34,3 @@
     padding: 10px 25px
 }
 
-/*
-|--------------------------------------------------------------------------
-| Card
-|--------------------------------------------------------------------------
-*/
-
-.list-card{
-    padding: 25px;
-    @extend .clearfix; 
-    
-    .card{
-        height:240px;
-        border:1px solid silver;
-        margin-right: 25px;
-        margin-bottom: 25px;
-    }
-}
- 
- 

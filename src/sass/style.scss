@@ -14,21 +14,20 @@
 
 // CORE
 
-@import "modules/core/header";
-@import "modules/core/sidebar";
-@import "modules/core/footer";
 @import "modules/core/content";
+@import "modules/core/buttons";  
+@import "modules/core/forms";
+@import "modules/core/modal"; 
 
 // COMPONENTS
  
-@import "modules/components/buttons";  
-@import "modules/components/forms";
-@import "modules/components/modal";
+@import "modules/components/header";
+@import "modules/components/sidebar";
+@import "modules/components/footer";
 @import "modules/components/cards";
-
-
 
 // SOURCE
 
 // @import "source/datatables";
 
+ 
