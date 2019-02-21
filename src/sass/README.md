@@ -20,24 +20,21 @@ Estrutura básica de pastas e arquivos:
   - *_base.scss*
   - *_config.scss*
   - *_fonts.scss*
-- **layout**
-  - **core**
-    - *_footer.scss*
-    - *_header.scss*
-    - *_sidebar.scss*
-  - **sections**
-    - *_login.scss*
-  - *_grid.scss*
-  - *_hack.scss*
+  - *_grid_.scss*
+  - *_helpers_.scss*
 - **modules**
-  - *_buttons.scss*
-  - *_forms.scss*
-  - *_helpers.scss*
-  - *_modal.scss*
+  - **components**
+    - *_cards_.scss*
+    - *_footer_.scss*
+    - *_header_.scss*
+    - *_sidebar_.scss*
+  - **core**
+    - *_buttons.scss*
+    - *_content_.scss*
+    - *_forms.scss*
+    - *_modal.scss*
 - **source**
   - *_animate.scss*
-  - *_bxslider.scss*
-  - *_datatables.scss*
 - *style.scss*
 
 ---
